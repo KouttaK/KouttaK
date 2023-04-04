@@ -26,4 +26,4 @@ Outro projeto que desenvolvi foi um clone básico do TikTok em React. O [reposit
 
 ## Contato
 
-Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/lucas-vinicius-a2979023a/). Estou sempre aberto para colaborar em novos projetos e oportunidades de aprendizado.
+Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/lucas-vinicius-a2979023a/) ou por e-mail em [lucasvinicius.kouttak@outlook.com](mailto:lucasvinicius.kouttak@outlook.com) para mais informações. Estou sempre aberto para colaborar em novos projetos e oportunidades de aprendizado.
